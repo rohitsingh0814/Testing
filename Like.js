@@ -1,0 +1,1 @@
+console.log('Like and subscribe succesfull');
